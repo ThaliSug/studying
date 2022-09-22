@@ -6,3 +6,5 @@
  - [ ] 3. Stationarity, Seasonality and AutoCorrelation
  - [ ] 4. Modeling - AR (Autoregressive Model)
  - [ ] 5. Modeling - AR with non stationary - Returns
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
